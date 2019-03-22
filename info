@@ -1,0 +1,42 @@
+CSS Grid Layout
+
+En css usamos multiples propiedades para dar la estructura a nuestro web site, tables, absolute, inline-block, relative, flexbox, ninguna de ellas fueron diseñadas para esta labor. por ello surge Grid. 5
+
+Historia CSS, CSS en el navegador se representa como un cuadro, donde puede poner texto, imagenes, contenido multimedia. Todos son cajas dentro de cajas y la forma de organizar las cajas era dificil. CSS no tenia una especificacion dedicada a crear layout, entonces teniamos que trabajas con lo que ya nos proveia CSS, y empezamos a usar tabla, display, float, inline-block, flexbox y este ultimo nos areglo muchos problemas, pero estaba diseñado para ser cosas de una manera en linea, continua, pero no para layout dinamicos. y aveces los diseñadores nos hace ideas loquisimas dentro de sus diseños y nos era dificil de afrontar, pero ahora es cosa del pasado. 
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+
+GRID:
+Grid Container: Elemento padre donde se asigna un display:grid
+Grid Item: hijos directos de un grid container
+Grid Line: divisorias horizontales y verticales
+Grid Track: Espacios entre dos lineas adjacentes, filas y columnas
+Grid Cell: Espacio en dos filas adjacente y 2 columnas adjacentes.
+Grid Area: Espacio que rodeado por 4 grid lineas
+
+Introducción
+- Bienvenidos al Curso de CSS Grid Layout
+Propiedades de CSS Grid Layout
+- ¿Qué es CSS grids?
+- Conceptos fundamentales sobre CSS Grid Layout
+- Definiendo columnas
+- Definiendo filas
+- Grids identados y tipos de displays
+- Espaciado entre filas y columnas
+- Repetidores, unidades de medida y funciones
+- Definiendo áreas de contenido
+- Definiendo el tamaño de las columnas dentro de un grid
+- Definiendo el tamaño de filas dentro de un grid
+- Definiendo el nombre de lineas
+- Manejando el grid implícito
+- Alineación de contenido
+Proyectos CSS
+- Layout de Instagram
+- Terminando el Layout de Instagram
+- Layout Masonry (Pinterest)
+- El landing de los cursos de Platzi
+- Terminando el landing de los cursos de Platzi
+- Desafío
+Conclusiones
+- Conclusiones del Curso de CSS Grid Layout
