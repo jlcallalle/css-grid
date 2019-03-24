@@ -16,15 +16,15 @@ Grid Cell: Espacio en dos filas adjacente y 2 columnas adjacentes.
 Grid Area: Espacio que rodeado por 4 grid lineas
 
 Introducción
-- Bienvenidos al Curso de CSS Grid Layout
+- Bienvenidos al Curso de CSS Grid Layout ✓
 Propiedades de CSS Grid Layout
-- ¿Qué es CSS grids?
-- Conceptos fundamentales sobre CSS Grid Layout
-- Definiendo columnas
-- Definiendo filas
-- Grids identados y tipos de displays
-- Espaciado entre filas y columnas
-- Repetidores, unidades de medida y funciones
+- ¿Qué es CSS grids? ✓
+- Conceptos fundamentales sobre CSS Grid Layout ✓
+- Definiendo columnas ✓
+- Definiendo filas ✓
+- Grids identados y tipos de displays ✓
+- Espaciado entre filas y columnas ✓
+- Repetidores, unidades de medida y funciones ✓
 - Definiendo áreas de contenido
 - Definiendo el tamaño de las columnas dentro de un grid
 - Definiendo el tamaño de filas dentro de un grid
@@ -40,3 +40,7 @@ Proyectos CSS
 - Desafío
 Conclusiones
 - Conclusiones del Curso de CSS Grid Layout
+
+
+** Repetidores, unidades de medida y funciones
+Ahora empezamos a ver cosas nuevas, gracias a css grid, y ahora nos trae nuevas unidades de medidad, px, pulgadas, %, em, rems, ahora tenemos fracciones 
