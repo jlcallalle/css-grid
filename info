@@ -25,12 +25,12 @@ Propiedades de CSS Grid Layout
 - Grids identados y tipos de displays ✓
 - Espaciado entre filas y columnas ✓
 - Repetidores, unidades de medida y funciones ✓
-- Definiendo áreas de contenido
-- Definiendo el tamaño de las columnas dentro de un grid
-- Definiendo el tamaño de filas dentro de un grid
-- Definiendo el nombre de lineas
-- Manejando el grid implícito
-- Alineación de contenido
+- Definiendo áreas de contenido ✓
+- Definiendo el tamaño de las columnas dentro de un grid ✓
+- Definiendo el tamaño de filas dentro de un grid ✓
+- Definiendo el nombre de lineas  ✓
+- Manejando el grid implícito ✓
+- Alineación de contenido ✓
 Proyectos CSS
 - Layout de Instagram
 - Terminando el Layout de Instagram
